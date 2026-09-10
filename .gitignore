@@ -1,0 +1,17 @@
+# Data (downloaded from STRING, not tracked)
+data/*.gz
+data/*.txt
+data/*.npz
+data/*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# OS
+.DS_Store
+
+# Large model artifacts
+results/embeddings.npy

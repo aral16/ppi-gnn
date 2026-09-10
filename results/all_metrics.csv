@@ -1,0 +1,11 @@
+method,roc_auc,ap,group
+Preferential Attachment,0.8535,0.8664,topological baseline
+GNN features only,0.9129,0.9236,ablation
+GraphSAGE (GNN),0.9149,0.9214,GNN
+Topological features only,0.9648,0.9775,ablation
+Common Neighbors,0.9654,0.965,topological baseline
+Jaccard,0.9659,0.9663,topological baseline
+Adamic-Adar,0.9663,0.967,topological baseline
+Resource Allocation,0.9669,0.9676,topological baseline
+Hybrid (LogisticRegression),0.9681,0.9788,hybrid
+Hybrid (GradientBoosting),0.9693,0.9799,hybrid

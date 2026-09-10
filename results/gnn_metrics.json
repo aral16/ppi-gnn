@@ -1,0 +1,15 @@
+{
+  "model": "GraphSAGE (3 layers, out_dim=128) + MLP decoder",
+  "features": "6 structural + 32 Laplacian-PE",
+  "num_nodes": 15882,
+  "train_pos_edges": 201206,
+  "val": {
+    "roc_auc": 0.9173,
+    "ap": 0.9192
+  },
+  "test": {
+    "roc_auc": 0.9149,
+    "ap": 0.9214
+  },
+  "best_val_auc": 0.9173
+}

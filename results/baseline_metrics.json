@@ -1,0 +1,22 @@
+{
+  "Common Neighbors": {
+    "roc_auc": 0.9654,
+    "ap": 0.965
+  },
+  "Jaccard": {
+    "roc_auc": 0.9659,
+    "ap": 0.9663
+  },
+  "Adamic-Adar": {
+    "roc_auc": 0.9663,
+    "ap": 0.967
+  },
+  "Resource Allocation": {
+    "roc_auc": 0.9669,
+    "ap": 0.9676
+  },
+  "Preferential Attachment": {
+    "roc_auc": 0.8535,
+    "ap": 0.8664
+  }
+}

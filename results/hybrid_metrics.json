@@ -1,0 +1,18 @@
+{
+  "Hybrid (GradientBoosting)": {
+    "roc_auc": 0.9693,
+    "ap": 0.9799
+  },
+  "Hybrid (LogisticRegression)": {
+    "roc_auc": 0.9681,
+    "ap": 0.9788
+  },
+  "GNN features only": {
+    "roc_auc": 0.9129,
+    "ap": 0.9236
+  },
+  "Topological features only": {
+    "roc_auc": 0.9648,
+    "ap": 0.9775
+  }
+}

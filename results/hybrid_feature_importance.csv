@@ -1,0 +1,14 @@
+feature,logreg_coef
+resource_alloc,13.742
+gnn_cosine,7.703
+jaccard,3.582
+gnn_l2,1.883
+adamic_adar,1.631
+gnn_had_min,-1.544
+gnn_dot,-1.1
+gnn_had_mean,-1.1
+common_neighbors,-1.056
+log_max_degree,0.749
+log_min_degree,-0.492
+gnn_had_max,-0.222
+log_pref_attach,0.12
