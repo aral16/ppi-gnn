@@ -219,3 +219,4 @@ matplotlib**.
 
 **Ariss Alimi** — M.Sc. Bioinformatics, Université de Montréal
 [GitHub](https://github.com/aral16)
+
